@@ -99,6 +99,5 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithm
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.csproj.CopyComplete
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.genruntimeconfig.cache
