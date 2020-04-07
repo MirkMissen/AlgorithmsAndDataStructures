@@ -1,0 +1,9 @@
+configuration: Release
+
+# restire NuGet packages before running MSBuild
+before_build:
+  - nuget restore
+  
+# package application.
+  verbosity: minimal
+  publish_wap: true
