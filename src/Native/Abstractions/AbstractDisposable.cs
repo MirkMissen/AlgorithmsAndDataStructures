@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Native.Abstractions.Interfaces;
 
 namespace Native.Abstractions {
@@ -32,7 +33,7 @@ namespace Native.Abstractions {
                 if (disposing) {
                 }
             }
-
+            
             this._isDisposed = true;
         }
 
