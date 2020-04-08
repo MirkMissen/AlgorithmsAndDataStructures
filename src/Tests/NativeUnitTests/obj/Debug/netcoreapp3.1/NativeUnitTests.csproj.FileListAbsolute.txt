@@ -176,6 +176,9 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.pdb
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.csprojAssemblyReference.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.AssemblyInfoInputs.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.AssemblyInfo.cs
@@ -183,6 +186,3 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.pdb
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.genruntimeconfig.cache
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.csprojAssemblyReference.cache
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.pdb

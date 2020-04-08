@@ -10,3 +10,15 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructuresAndAlgor
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructures.csproj.CopyComplete
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructures.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructures.pdb
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.deps.json
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.pdb
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\bin\Debug\netcoreapp3.0\Native.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\bin\Debug\netcoreapp3.0\Native.pdb
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfo.cs
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.csproj.CopyComplete
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.pdb

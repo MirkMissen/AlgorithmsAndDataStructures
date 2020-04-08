@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj": {}
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj": {
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

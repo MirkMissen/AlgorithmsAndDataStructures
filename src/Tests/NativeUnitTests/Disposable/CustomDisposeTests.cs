@@ -12,7 +12,7 @@ namespace NativeUnitTests.Disposable {
         [Test]
         public void EventsRaised() {
 
-            var d = new disposable();
+            var d = new Disposable();
             
             var disposing = false;
             var disposed = false;
@@ -27,7 +27,7 @@ namespace NativeUnitTests.Disposable {
             Assert.IsTrue(disposing);
         }
         
-        private class disposable : Native.Abstractions.AbstractDisposable {
+        private class Disposable : Native.Abstractions.AbstractDisposable {
             protected override void Dispose(bool disposing) {
                 try {
                     // nothing.

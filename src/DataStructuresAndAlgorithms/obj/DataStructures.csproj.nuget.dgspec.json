@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Tests\\DAAUnitTests\\DataStructuresUnitTests.csproj": {}
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -121,83 +121,6 @@
               "version": "[3.0.1, 3.0.1]"
             }
           ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Tests\\DAAUnitTests\\DataStructuresUnitTests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Tests\\DAAUnitTests\\DataStructuresUnitTests.csproj",
-        "projectName": "DataStructuresUnitTests",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Tests\\DAAUnitTests\\DataStructuresUnitTests.csproj",
-        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Tests\\DAAUnitTests\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj": {
-                "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.CodeCoverage": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.11.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

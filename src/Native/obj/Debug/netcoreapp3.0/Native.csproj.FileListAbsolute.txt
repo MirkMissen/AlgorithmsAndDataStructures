@@ -101,4 +101,3 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Native\obj\Debug\netco
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Native\obj\Debug\netcoreapp3.0\Native.AssemblyInfo.cs
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Native\obj\Debug\netcoreapp3.0\Native.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Native\obj\Debug\netcoreapp3.0\Native.pdb
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Native\obj\Debug\netcoreapp3.0\Native.csprojAssemblyReference.cache

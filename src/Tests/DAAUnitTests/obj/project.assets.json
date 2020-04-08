@@ -4589,8 +4589,8 @@
     },
     "DataStructures/1.0.0": {
       "type": "project",
-      "path": "../../DataStructuresAndAlgorithms/DataStructures.csproj",
-      "msbuildProject": "../../DataStructuresAndAlgorithms/DataStructures.csproj"
+      "path": "../../DataStructures/DataStructures.csproj",
+      "msbuildProject": "../../DataStructures/DataStructures.csproj"
     },
     "Native/1.0.0": {
       "type": "project",
@@ -4637,8 +4637,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj": {
-              "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj"
+            "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj"
             }
           }
         }
