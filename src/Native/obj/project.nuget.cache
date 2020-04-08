@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRqM69OdEXNZy06JhX34GoQcnPG/8k7wyba9k+UWNKvslvFtLpwGPv6h1gog0/LI3Vmh3csUMQeZVuR2NWqCzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

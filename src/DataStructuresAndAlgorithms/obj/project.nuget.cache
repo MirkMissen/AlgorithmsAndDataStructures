@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZukogHqASnXYlUlGhbWGrl6gvLssXNXswAPsCypppWXrwNjyHt5gKmbrNmYBsrf2UaIjoaudYNAKOeGDJGq3mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructuresAndAlgorithms\\DataStructures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
