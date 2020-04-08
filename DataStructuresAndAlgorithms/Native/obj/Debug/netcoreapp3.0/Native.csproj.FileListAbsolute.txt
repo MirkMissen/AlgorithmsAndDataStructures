@@ -1,7 +1,3 @@
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.engine.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Native.deps.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Native.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Native.pdb
@@ -9,15 +5,9 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithm
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.AssemblyInfo.cs
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.pdb
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\NUnit.VisualStudio.TestAdapter.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.core.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.core.interfaces.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.util.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Native.runtimeconfig.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Native.runtimeconfig.dev.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -99,5 +89,7 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithm
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.csproj.CopyComplete
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\obj\Debug\netcoreapp3.0\Native.genruntimeconfig.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\Native\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb

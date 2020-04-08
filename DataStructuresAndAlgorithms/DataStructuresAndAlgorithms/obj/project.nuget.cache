@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SQKVRcNnhXNy+krCXgkQvTSLbPCAV396lyZrhUkK20WhC3usIhiaWeqbf8rr7XDz4WDJBC39OFJRFpniew2QFw==",
+  "dgSpecHash": "ZuQjl4pMv9gZ/1Pn9/02NMFsT1QLuyXZWnwweqxfpxn9nlILFUMaZrcAUzJiC0tCO8lJm2E6u9bs45+BtVdpxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
   "expectedPackageFiles": [
@@ -18,8 +18,7 @@
     "C:\\Users\\Bruger\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
-    "C:\\Users\\Bruger\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
-    "C:\\Users\\Bruger\\.nuget\\packages\\nunittestadapter\\2.2.0\\nunittestadapter.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\nunit3testadapter\\3.11.2\\nunit3testadapter.3.11.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

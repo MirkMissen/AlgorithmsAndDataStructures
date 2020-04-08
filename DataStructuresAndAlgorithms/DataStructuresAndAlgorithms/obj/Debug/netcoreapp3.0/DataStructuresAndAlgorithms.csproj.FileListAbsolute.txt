@@ -1,7 +1,3 @@
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.engine.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.deps.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.pdb
@@ -13,14 +9,8 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithm
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.csproj.CopyComplete
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.pdb
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\NUnit.VisualStudio.TestAdapter.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.core.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.core.interfaces.dll
-C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.util.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.runtimeconfig.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.runtimeconfig.dev.json
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -102,4 +92,6 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithm
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.0\DataStructuresAndAlgorithms.genruntimeconfig.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
