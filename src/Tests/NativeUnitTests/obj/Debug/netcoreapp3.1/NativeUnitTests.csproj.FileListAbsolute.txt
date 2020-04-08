@@ -183,3 +183,6 @@ C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.dll
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.pdb
 C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.genruntimeconfig.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\obj\Debug\netcoreapp3.1\NativeUnitTests.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.dll
+C:\Users\Bruger\Documents\AlgorithmsAndDataStructures\src\Tests\NativeUnitTests\bin\Debug\netcoreapp3.1\Native.pdb

@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Native/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Native.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Native.dll": {}
+        }
       }
     }
   },
@@ -4563,6 +4573,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Native/1.0.0": {
+      "type": "project",
+      "path": "../../Native/Native.csproj",
+      "msbuildProject": "../../Native/Native.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4570,7 +4585,8 @@
       "Microsoft.CodeCoverage >= 16.5.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.11.2"
+      "NUnit3TestAdapter >= 3.11.2",
+      "Native >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4602,7 +4618,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
