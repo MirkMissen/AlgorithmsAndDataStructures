@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.csproj" />
+    <ProjectReference Include="..\DataStructuresAndAlgorithms\DataStructures.csproj" />
   </ItemGroup>
 
 </Project>

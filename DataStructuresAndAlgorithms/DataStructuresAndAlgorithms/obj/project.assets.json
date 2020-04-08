@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
-      "projectName": "DataStructuresAndAlgorithms",
-      "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructures.csproj",
+      "projectName": "DataStructures",
+      "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\obj\\",
       "projectStyle": "PackageReference",

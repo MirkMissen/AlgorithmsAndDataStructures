@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zEpNqm8++7sLZ8ySG//IuoZDPhpi/DhP2U1hgAl/QHes2nNMjbfQMaC55+dpFBiAOYRcF8dGeLupkhQVGTAJw==",
+  "dgSpecHash": "pYsGbc/nDyeuYDSgOKjvtJRQTse2n64cgoFzXJ82tmzxfhMTyESgGjndjWe1tZVUa0cb/0RRC0MSiZMdJWcPAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

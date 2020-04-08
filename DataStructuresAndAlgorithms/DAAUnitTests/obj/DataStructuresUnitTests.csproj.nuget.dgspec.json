@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj": {}
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj": {
+    "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj",
-        "projectName": "DAAUnitTests",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj",
+        "projectName": "DataStructuresUnitTests",
+        "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\obj\\",
         "projectStyle": "PackageReference",

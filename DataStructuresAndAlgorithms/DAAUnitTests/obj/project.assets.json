@@ -1226,17 +1226,17 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "DataStructuresAndAlgorithms/1.0.0": {
+      "DataStructures/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
           "Native": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/DataStructuresAndAlgorithms.dll": {}
+          "bin/placeholder/DataStructures.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataStructuresAndAlgorithms.dll": {}
+          "bin/placeholder/DataStructures.dll": {}
         }
       },
       "Native/1.0.0": {
@@ -4587,10 +4587,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "DataStructuresAndAlgorithms/1.0.0": {
+    "DataStructures/1.0.0": {
       "type": "project",
-      "path": "../DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.csproj",
-      "msbuildProject": "../DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.csproj"
+      "path": "../DataStructuresAndAlgorithms/DataStructures.csproj",
+      "msbuildProject": "../DataStructuresAndAlgorithms/DataStructures.csproj"
     },
     "Native/1.0.0": {
       "type": "project",
@@ -4600,7 +4600,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DataStructuresAndAlgorithms >= 1.0.0",
+      "DataStructures >= 1.0.0",
       "Microsoft.CodeCoverage >= 16.5.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
@@ -4614,9 +4614,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj",
-      "projectName": "DAAUnitTests",
-      "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DAAUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj",
+      "projectName": "DataStructuresUnitTests",
+      "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\DataStructuresUnitTests.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DAAUnitTests\\obj\\",
       "projectStyle": "PackageReference",
@@ -4637,8 +4637,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
-              "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj"
+            "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\DataStructures.csproj"
             }
           }
         }
