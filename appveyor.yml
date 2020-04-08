@@ -1,0 +1,10 @@
+configuration: Release
+
+# restire NuGet packages before running MSBuild
+before_build:
+  - nuget restore DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.sln
+  
+# package application.
+build:
+  verbosity: minimal
+  publish_wap: true

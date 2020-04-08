@@ -1,1 +1,8 @@
 language: csharp
+solution: DataStructuresAndAlgorithms.sln
+install:
+  - nuget restore DataStructuresAndAlgorithms.sln
+  - nuget install NUnit.Runners -Version 3.11.1 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Debug DataStructuresAndAlgorithms.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/netcoreapp3.0/DataStructuresAndAlgorithms.dll
