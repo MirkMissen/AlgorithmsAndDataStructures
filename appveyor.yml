@@ -2,7 +2,7 @@ configuration: Release
 
 # restire NuGet packages before running MSBuild
 before_build:
-  - nuget restore DataStructuresAndAlgorithms/src/src.sln
+  - nuget restore src/src.sln
   
 # package application.
 build:
