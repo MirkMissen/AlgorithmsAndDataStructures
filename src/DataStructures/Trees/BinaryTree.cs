@@ -7,10 +7,10 @@ using Native.Abstractions;
 namespace DataStructures.Trees {
 
     /// <summary>
-    /// The Linear-Binary-Tree is created for appending new elements to the end.
+    /// The Binary-Tree is created for appending new elements to the end.
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public class LinearBinaryTree<T> : AbstractDisposable, ITree<T> {
+    public class BinaryTree<T> : AbstractDisposable, ITree<T> {
 
         /// <summary>
         /// Internal 1-indexed collection.
@@ -32,7 +32,7 @@ namespace DataStructures.Trees {
         /// <summary>
         /// Initializes a new Binary Tree.
         /// </summary>
-        public LinearBinaryTree() {
+        public BinaryTree() {
             this.InitializeTree();
         }
 

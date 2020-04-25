@@ -13,7 +13,7 @@ namespace DataStructuresUnitTests.Trees {
 
         [Test]
         public void ShouldAddElementsToTree_1Indexed() {
-            LinearBinaryTree<string> tree = new LinearBinaryTree<string>();
+            BinaryTree<string> tree = new BinaryTree<string>();
             tree.Append("a");
             tree.Append("b");
             Assert.IsTrue(tree.GetIndex(1).Equals("a"));
@@ -23,7 +23,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void ShouldClearTree() { 
             
-            LinearBinaryTree<string> tree = new LinearBinaryTree<string>();
+            BinaryTree<string> tree = new BinaryTree<string>();
             tree.Append("Hello");
 
             var count1 = tree.Count();
@@ -37,7 +37,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void SettingMustHaveChildrenAndParents() {
             
-            var tree = new LinearBinaryTree<string>();
+            var tree = new BinaryTree<string>();
 
             // root
             tree.Append("root");
@@ -84,7 +84,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void EnumerableAccess() {
 
-            LinearBinaryTree<int> tree = new LinearBinaryTree<int>();
+            BinaryTree<int> tree = new BinaryTree<int>();
             tree.Append(1);
             tree.Append(2);
             tree.Append(3);
@@ -105,7 +105,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void EnumerableAccess_generic() {
 
-            LinearBinaryTree<int> tree = new LinearBinaryTree<int>();
+            BinaryTree<int> tree = new BinaryTree<int>();
             tree.Append(1);
             tree.Append(2);
             tree.Append(3);
@@ -120,7 +120,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void AlterIndex() {
             
-            LinearBinaryTree<int> tree = new LinearBinaryTree<int>();
+            BinaryTree<int> tree = new BinaryTree<int>();
 
             tree.Append(1);
             tree.Append(500);
@@ -137,7 +137,7 @@ namespace DataStructuresUnitTests.Trees {
         [Test]
         public void RemoveLastEntry() {
             
-            LinearBinaryTree<int> tree = new LinearBinaryTree<int>();
+            BinaryTree<int> tree = new BinaryTree<int>();
 
             tree.Append(1);
             tree.Append(500);

@@ -22,7 +22,7 @@ namespace DataStructuresUnitTests.Graphs {
             graph.AddNode(node1);
             graph.AddNode(node2);
 
-            var vertex = node1.ConnectNode(node2, IoDirection.Both);
+            node1.ConnectNode(node2, IoDirection.Both);
 
             Assert.IsTrue(node1.Value == 1);
             Assert.IsTrue(node2.Value == 2);
@@ -69,7 +69,7 @@ namespace DataStructuresUnitTests.Graphs {
             graph.AddNode(node1);
             graph.AddNode(node2);
 
-            var vertex = node1.ConnectNode(node2, IoDirection.Both);
+            node1.ConnectNode(node2, IoDirection.Both);
 
             graph.RemoveNode(node1);
             Assert.IsFalse(node2.Vertices.Any());

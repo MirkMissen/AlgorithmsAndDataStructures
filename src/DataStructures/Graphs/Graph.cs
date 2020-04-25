@@ -27,7 +27,7 @@ namespace DataStructures.Graphs {
         /// <param name="node"></param>
         public void AddNode(IGraphNode<T> node) {
             if (this.Nodes.Contains(node)) {
-                throw new ArgumentException($"The graph already contains the node: {node.ToString()}");
+                throw new ArgumentException($"The graph already contains the node: {node}");
             }
             this._nodes.Add(node);
         }
