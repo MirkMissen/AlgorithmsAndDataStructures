@@ -7,7 +7,7 @@ Some terms in this project are my own made up terms.
 
 
 Trees ([ITree](DataStructuresAndAlgorithms/src/DataStructures/Trees/ITree.cs))
-1. [LinearBinaryTree](DataStructuresAndAlgorithms/src/DataStructures/Trees/LinearBinaryTree.cs) Builds a tree by appending new data to the end. 
+1. [BinaryTree](DataStructuresAndAlgorithms/src/DataStructures/Trees/BinaryTree.cs) Builds a tree by appending new data to the end. 
 
 Graphs (on going)
 
