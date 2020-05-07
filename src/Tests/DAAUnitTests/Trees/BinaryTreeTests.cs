@@ -16,8 +16,8 @@ namespace DataStructuresUnitTests.Trees {
             BinaryTree<string> tree = new BinaryTree<string>();
             tree.Append("a");
             tree.Append("b");
-            Assert.IsTrue(tree.GetIndex(1).Equals("a"));
-            Assert.IsTrue(tree.GetIndex(2).Equals("b"));
+            Assert.IsTrue(tree.GetValue(1).Equals("a"));
+            Assert.IsTrue(tree.GetValue(2).Equals("b"));
         }
 
         [Test]
@@ -55,13 +55,13 @@ namespace DataStructuresUnitTests.Trees {
 
             // Root is index 1 and has no parent and two children.
             Assert.IsTrue(tree.Root.Equals("root"));
-            Assert.IsTrue(tree.Root.Equals(tree.GetIndex(1)));
+            Assert.IsTrue(tree.Root.Equals(tree.GetValue(1)));
             Assert.IsTrue(tree.HasParent(1) == false);
 
             var leftChildIndex = tree.GetLeftNodeIndex(1);
             var rightChildIndex = tree.GetRightNodeIndex(1);
-            Assert.IsTrue(tree.GetIndex(leftChildIndex).Equals("root_left_child"));
-            Assert.IsTrue(tree.GetIndex(rightChildIndex).Equals("root_right_child"));
+            Assert.IsTrue(tree.GetValue(leftChildIndex).Equals("root_left_child"));
+            Assert.IsTrue(tree.GetValue(rightChildIndex).Equals("root_right_child"));
 
             Assert.IsTrue(tree.HasParent(leftChildIndex));
             Assert.IsTrue(tree.GetParent(leftChildIndex).Equals(1));
@@ -71,14 +71,14 @@ namespace DataStructuresUnitTests.Trees {
             Assert.IsTrue(tree.HasLeftNode(leftChildIndex));
             Assert.IsTrue(tree.HasRightNode(leftChildIndex));
             
-            Assert.IsTrue(tree.GetIndex(tree.GetLeftNodeIndex(leftChildIndex)).Equals("root_left_left_child"));
-            Assert.IsTrue(tree.GetIndex(tree.GetRightNodeIndex(leftChildIndex)).Equals("root_left_right_child"));
+            Assert.IsTrue(tree.GetValue(tree.GetLeftNodeIndex(leftChildIndex)).Equals("root_left_left_child"));
+            Assert.IsTrue(tree.GetValue(tree.GetRightNodeIndex(leftChildIndex)).Equals("root_left_right_child"));
             
             Assert.IsTrue(tree.HasLeftNode(rightChildIndex));
             Assert.IsFalse(tree.HasRightNode(rightChildIndex));
 
-            Assert.IsTrue(tree.GetIndex(tree.GetLeftNodeIndex(rightChildIndex)).Equals("root_right_left_child"));
-            Assert.Throws<ArgumentOutOfRangeException>(() => tree.GetIndex(tree.GetRightNodeIndex(rightChildIndex)));
+            Assert.IsTrue(tree.GetValue(tree.GetLeftNodeIndex(rightChildIndex)).Equals("root_right_left_child"));
+            Assert.Throws<ArgumentOutOfRangeException>(() => tree.GetValue(tree.GetRightNodeIndex(rightChildIndex)));
         }
 
         [Test]
@@ -126,9 +126,9 @@ namespace DataStructuresUnitTests.Trees {
             tree.Append(500);
             tree.Append(3);
 
-            var pre_index2 = tree.GetIndex(2);
+            var pre_index2 = tree.GetValue(2);
             tree.SetIndexValue(2, 2);
-            var post_index2 = tree.GetIndex(2);
+            var post_index2 = tree.GetValue(2);
 
             Assert.IsTrue(pre_index2 == 500);
             Assert.IsTrue(post_index2 == 2);

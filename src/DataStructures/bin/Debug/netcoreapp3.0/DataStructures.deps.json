@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "DataStructures/1.0.0": {
+      "DataStructures/0.1.0": {
         "dependencies": {
           "Native": "1.0.0"
         },
@@ -22,7 +22,7 @@
     }
   },
   "libraries": {
-    "DataStructures/1.0.0": {
+    "DataStructures/0.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

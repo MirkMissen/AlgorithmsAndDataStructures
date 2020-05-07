@@ -18,7 +18,7 @@ namespace DataStructures.Trees {
         /// </summary>
         /// <param name="index">The index to look up</param>
         /// <returns></returns>
-        T GetIndex(int index);
+        T GetValue(int index);
 
         /// <summary>
         /// Clears all elements from the tree.

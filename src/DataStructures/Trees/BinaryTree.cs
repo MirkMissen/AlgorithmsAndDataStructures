@@ -11,12 +11,17 @@ namespace DataStructures.Trees {
     /// </summary>
     /// <typeparam name="T"></typeparam>
     public class BinaryTree<T> : AbstractDisposable, ITree<T> {
-
+        
         /// <summary>
         /// Internal 1-indexed collection.
         /// </summary>
         private List<T> _collection;
-
+        
+        /// <summary>
+        /// Defines the index of the root element.
+        /// </summary>
+        public readonly int RootIndex = 1;
+        
         /// <summary>
         /// Defines the current size of the tree.
         /// </summary>
@@ -27,8 +32,8 @@ namespace DataStructures.Trees {
         /// Defines the root of the tree.
         /// </summary>
         /// <returns></returns>
-        public T Root => this._collection[1];
-
+        public T Root => this._collection[RootIndex];
+        
         /// <summary>
         /// Initializes a new Binary Tree.
         /// </summary>
@@ -109,13 +114,16 @@ namespace DataStructures.Trees {
         /// </summary>
         /// <param name="index">The index to look up.</param>
         /// <returns></returns>
-        public T GetIndex(int index) => this._collection[index];
+        public T GetValue(int index) => this._collection[index];
 
         /// <summary>
-        /// Adds an element to the tree.
+        /// Adds the element to the end of the tree. Returns the index of which it was placed.
         /// </summary>
         /// <param name="element">The element to be added</param>
-        public void Append(T element) => this._collection.Add(element);
+        public int Append(T element) {
+            this._collection.Add(element);
+            return this._collection.Count - 1;
+        }
 
         /// <summary>
         /// Removes an element from the tree.
