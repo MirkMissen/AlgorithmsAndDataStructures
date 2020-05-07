@@ -15,4 +15,4 @@ deploy:
     artifact: /.nupkg/
     username: mirkmissen
     api_key:
-      secure: 7jfc4xobqiigx4wx8ok7
+      secure: g+6x5j/k7AunYYHgzKXHfGmwWyBRxLFIoRWzPjJaF6/AWfOeoy2huQwPW8AdAQkO
