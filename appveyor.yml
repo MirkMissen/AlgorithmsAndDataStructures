@@ -8,3 +8,11 @@ before_build:
 build:
   verbosity: minimal
   publish_wap: true
+  
+deploy:
+  - provider: NuGet
+    server: https://nuget.pkg.github.com/mirkmissen/index.json
+    artifact: /.nupkg/
+    username: mirkmissen
+    api_key:
+      secure: 7jfc4xobqiigx4wx8ok7
