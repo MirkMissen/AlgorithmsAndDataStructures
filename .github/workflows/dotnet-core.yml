@@ -7,8 +7,8 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
-
+  build: 
+    
     runs-on: ubuntu-latest
 
     steps:
@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 3.1.301
     - name: Install dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet restore src/src.sln
+    - name: Build 
+      run: dotnet build src/src.sln --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
