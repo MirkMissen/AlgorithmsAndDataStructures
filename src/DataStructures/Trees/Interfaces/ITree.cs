@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DataStructures.Trees {
+namespace DataStructures.Trees.Interfaces {
 
     /// <summary>
     /// Defines basic instructions which all trees must be able to execute.

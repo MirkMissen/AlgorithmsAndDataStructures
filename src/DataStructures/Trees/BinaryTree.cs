@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using DataStructures.Trees.Interfaces;
 using Native.Abstractions;
 
 namespace DataStructures.Trees {

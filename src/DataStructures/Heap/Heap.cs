@@ -44,12 +44,18 @@ namespace DataStructures.Heap {
             this._internBinaryTree = new BinaryTree<T>();
         }
 
+        /// <summary>
+        /// Inserts an element into this heap.
+        /// </summary>
+        /// <param name="element">Defines the element to be inserted.</param>
         public void Insert(T element) {
             var index = this._internBinaryTree.Append(element);
             InterpolateUp(index);
         }
 
-
+        /// <summary>
+        /// Deletes the current root node.
+        /// </summary>
         public void DeleteRoot() {
 
             var rootIndex = this._internBinaryTree.RootIndex;
@@ -75,7 +81,6 @@ namespace DataStructures.Heap {
                 var parentIndex = this._internBinaryTree.GetParent(index);
                 var parentValue = this._internBinaryTree.GetValue(parentIndex);
 
-                // TODO: MKR refactor this, such that a compare result does not match on == 1.
                 if (this._comparer.Compare(currentValue, parentValue) == 1) {
                     Swap(index, parentIndex);
                     this.InterpolateUp(parentIndex);
