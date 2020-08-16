@@ -1226,7 +1226,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "DataStructures/0.1.0": {
+      "DataStructures/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -4587,7 +4587,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "DataStructures/0.1.0": {
+    "DataStructures/1.0.0": {
       "type": "project",
       "path": "../../DataStructures/DataStructures.csproj",
       "msbuildProject": "../../DataStructures/DataStructures.csproj"
@@ -4600,7 +4600,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DataStructures >= 0.1.0",
+      "DataStructures >= 1.0.0",
       "Microsoft.CodeCoverage >= 16.5.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
