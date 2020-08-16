@@ -16,7 +16,14 @@ jobs:
         run: dotnet test src/src.sln
         
       - name: publish on version change
-        id: publish_nuget
+        id: native_publish_nuget
+        uses: rohith/publish-nuget@v2
+        with:
+          PROJECT_FILE_PATH: src/DataStructures/Native.csproj
+          NUGET_KEY: ${{secrets.NUGET_API_KEY}}
+          
+      - name: publish on version change
+        id: datastructures_publish_nuget
         uses: rohith/publish-nuget@v2
         with:
           PROJECT_FILE_PATH: src/DataStructures/DataStructures.csproj
