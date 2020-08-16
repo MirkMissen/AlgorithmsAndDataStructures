@@ -7,7 +7,7 @@
     <Authors>Morten Kristensen</Authors>
     <Company>None</Company>
     <Description>Datastructures which are not included in .NET.</Description>
-    <Version>1.0.1</Version>
+    <Version>1.1.0</Version>
     <PackageId>Mirk.DataStructures</PackageId>
   </PropertyGroup>
 

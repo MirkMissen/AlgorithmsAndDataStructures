@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj",
-        "projectName": "Native",
+        "projectName": "Mirk.Native",
         "projectPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\Native.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\Native\\obj\\",

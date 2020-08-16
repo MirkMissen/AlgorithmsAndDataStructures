@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "Native/1.0.0": {
+      "Mirk.Native/1.1.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
-          "bin/placeholder/Native.dll": {}
+          "bin/placeholder/Mirk.Native.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Native.dll": {}
+          "bin/placeholder/Mirk.Native.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Native/1.0.0": {
+    "Mirk.Native/1.1.0": {
       "type": "project",
       "path": "../Native/Native.csproj",
       "msbuildProject": "../Native/Native.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Native >= 1.0.0"
+      "Mirk.Native >= 1.1.0"
     ]
   },
   "packageFolders": {
@@ -31,7 +31,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Bruger\\Documents\\AlgorithmsAndDataStructures\\src\\DataStructures\\DataStructures.csproj",
       "projectName": "Mirk.DataStructures",

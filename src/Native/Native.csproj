@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <Platforms>AnyCPU;x64</Platforms>
+    <PackageId>Mirk.Native</PackageId>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
+    <Description>Defines common definitions and implementations.</Description>
   </PropertyGroup>
 
 </Project>

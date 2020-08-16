@@ -1226,14 +1226,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Native/1.0.0": {
+      "Mirk.Native/1.1.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
-          "bin/placeholder/Native.dll": {}
+          "bin/placeholder/Mirk.Native.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Native.dll": {}
+          "bin/placeholder/Mirk.Native.dll": {}
         }
       }
     }
@@ -4574,7 +4574,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Native/1.0.0": {
+    "Mirk.Native/1.1.0": {
       "type": "project",
       "path": "../../Native/Native.csproj",
       "msbuildProject": "../../Native/Native.csproj"
@@ -4584,9 +4584,9 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.CodeCoverage >= 16.5.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "Mirk.Native >= 1.1.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.11.2",
-      "Native >= 1.0.0"
+      "NUnit3TestAdapter >= 3.11.2"
     ]
   },
   "packageFolders": {
