@@ -8,6 +8,7 @@
     <Company>None</Company>
     <Description>Datastructures which are not included in .NET.</Description>
     <Version>1.0.0</Version>
+    <PackageId>Mirk.DataStructures</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
